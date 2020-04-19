@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DNDMap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DNDMap_jar</output-path>
+    <root id="archive" name="DnD.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/DNDgui/MainMap/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DnD" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/apiguardian-api-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/junit-jupiter-api-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/junit-jupiter-engine-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/junit-jupiter-params-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/junit-platform-commons-1.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/junit-platform-engine-1.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../assign1_k0q2b/lib/opentest4j-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
